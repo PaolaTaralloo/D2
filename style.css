@@ -67,7 +67,7 @@ main{
     height: 50px;
 }
 .head-banner{
-    background-image: url(/assets/imgs/bg-image.png);
+    background-image: url(assets/imgs/bg-image.png);
     background-position: center;
     padding: 20px;
     color: white;
